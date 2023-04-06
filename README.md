@@ -2,7 +2,7 @@
 
 Visualizing NCEP/GDAS' FNL Meteorological Dataset, core of GFS Model, 
 at 0.25 x 0.25 degree. These dataset can be queried via NCAR/UCAR RDA (https://rda.ucar.edu/) or
-direct to THREDDS Server (https://thredds.ucar.edu/thredds/catalog/catalog.html)
+direct to THREDDS Server (https://thredds.ucar.edu/thredds/catalog/catalog.html).
 
 These notebooks that I created are used for my bachelor's thesis. However, it 
 can be used, accordingly based on your preference i.e. location, time, etc. Thus, you can definitely
