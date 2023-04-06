@@ -15,8 +15,9 @@ As of April 6, 2023
 
 Major Tweak(s):
 1. Changes to the notebook involving Mean Precipitation. New custom cmaps at various rates.
-2. Adjusted gaussian smoothing to most of the NCEP FNL notebooks. 
+2. Adjusted gaussian smoothing to most of the NCEP FNL notebooks.
+3. Provided a quick fix to the surface U-wind component in the Dewpoint chart. 
 
 Minor Tweak(s):
 1. Subtle changes to plot titles involving symbols instead of proxy abbreviations. 
-2.  Reversed the color scheme in Atmospheric Thickness to accomodate temperature variation.
+2. Reversed the color scheme in Atmospheric Thickness to accomodate temperature variation.
