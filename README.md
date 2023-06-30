@@ -11,6 +11,12 @@ make improvements out of it.
 I've used Python ver. 3.9.x with MetPy ver. 1.3. 
 
 ---------------
+As of June 30, 2023
+
+Major Tweak(s):
+1. Changes to Storm-relative (SR) Motion and SR Helicity ntbk. Computed for user-defined SRH and averaged
+with the NCEP FNL's SRH product. Also includes 0-1 km SRH. Used a different colormap.
+
 As of April 6, 2023
 
 Major Tweak(s):
