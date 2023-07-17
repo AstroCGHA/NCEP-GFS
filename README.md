@@ -1,4 +1,4 @@
-# NCEP FNL-GFS Visualization Notebooks
+# NCEP FNL-GFS Data Analysis and Visualization Notebooks
 
 Visualizing NCEP/GDAS' FNL Meteorological Dataset, core of GFS Model, 
 at 0.25 x 0.25 degree. These dataset can be queried via NCAR/UCAR RDA (https://rda.ucar.edu/) or
@@ -13,6 +13,11 @@ These notebooks include synoptic and mesoscale (e.g. convective and kinematic) p
 I've used Python ver. 3.9.x and the python packages mostly used in these notebooks are Cartopy, Matplotlib, MetPy (both 1.3 on Desktop and 1.5 on Laptop), NumPy, and Xarray. Make sure you have those!
 
 ---------------
+As of July 17, 2023
+
+Major Tweak(s):
+1. Revised the notebook for SRH incorporating and visualizing RM and LM components using Bunkers Internal Dynamics (ID) Method.
+
 As of July 6, 2023
 
 Major Tweak(s):
