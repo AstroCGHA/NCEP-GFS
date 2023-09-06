@@ -13,6 +13,15 @@ These notebooks include synoptic and mesoscale (e.g. convective and kinematic) p
 I've used Python ver. 3.9.x and the python packages mostly used in these notebooks are Cartopy, Matplotlib, MetPy (both 1.3 on Desktop and 1.5 on Laptop), NumPy, and Xarray. Make sure you have those!
 
 ---------------
+As of Sept 6, 2023
+
+Major Tweak(s):
+1. Used Baroclinic solution to Potential Vorticity and Temperature cross section notebook. Barotropic option is added in case.
+
+Minor Tweaks(s)
+1. Additional proper units and calculation of composite parameters without calling the magnitude function to make arrays dimensionless.
+
+
 As of July 20, 2023
 
 Major Tweak(s):
