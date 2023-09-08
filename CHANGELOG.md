@@ -1,11 +1,12 @@
 This file encapsulates all of the notable changes of each notebook on this repository.
 
-## As of Sept 6, 2023
+## As of Sept 8, 2023
 
 Tweak(s):
-1. Used Baroclinic solution to Potential Vorticity and Temperature cross section notebook. Barotropic option is added in case.
+1. Added a notebook for Barotropic and Baroclinic Potential Vorticity (PV) with Equivalent ThetaE.
 2. Additional proper units and calculation of composite parameters without calling the magnitude function to make arrays dimensionless.
-
+3. 
+Note: Both notebooks containing Baroclinic and Barotropic PV with Equivalent ThetaE has pressure level limits to 500-hPa for visualization/analysis purposes in this case.
 
 ## As of July 20, 2023
 
